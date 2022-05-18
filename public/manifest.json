@@ -19,7 +19,6 @@
     }
   ],
   "start_url": "/",
-  "scope": "https://i-tech-uum.web.app/",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff"
