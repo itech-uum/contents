@@ -1,7 +1,7 @@
 {
-    "img-big": "/resources/assets/sky.jpg",
-    "img-small": "/resources/assets/sky.jpg",
+    "img-big": "https://itech-uum.github.io/resources/assets/sky.jpg",
+    "img-small": "https://itech-uum.github.io/resources/assets/sky.jpg",
     "alt": "Placeholder image",
     "btn-text": "MORE INFO »",
-    "btn-link": "/#/event"
+    "btn-link": "/event"
 }
