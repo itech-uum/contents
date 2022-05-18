@@ -19,7 +19,7 @@
     }
   ],
   "start_url": ".",
-  "scope": "https://itech-uum.github.io/news",
+  "scope": "https://i-tech-uum.web.app",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
