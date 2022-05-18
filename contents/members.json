@@ -1,0 +1,17 @@
+{
+    "mt": [
+        {"name": "Muhd Irfan Zulkifli", "role": "President", "img": "/resources/assets/sky.jpg"},
+        {"name": "Wei Chai", "role": "Vice President (Internal)", "img": "/resources/assets/sky.jpg"},
+        {"name": "Anlknaklnklamd JHkjajla JKJKJKLJL", "role": "Secretary", "img": "/resources/assets/sky.jpg"},
+        {"name": "Name B", "role": "Vice Secretary", "img": "/resources/assets/sky.jpg"},
+        {"name": "Name E", "role": "Role E", "img": "/resources/assets/sky.jpg"}
+    ],
+    "ajk": [
+        {"name": "Mohd Adam bin Amir", "role": "Multimedia & Publicity", "img": "/resources/assets/sky.jpg"},
+        {"name": "Mohd Ammar bin Azizan", "role": "Technical", "img": "/resources/assets/sky.jpg"},
+        {"name": "Name E", "role": "Role E", "img": "/resources/assets/sky.jpg"},
+        {"name": "Name F", "role": "Role F", "img": "/resources/assets/sky.jpg"},
+        {"name": "Name G", "role": "Role G", "img": "/resources/assets/sky.jpg"},
+        {"name": "Name H", "role": "Role H", "img": "/resources/assets/sky.jpg"}
+    ]
+}

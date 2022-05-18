@@ -1,2 +1,2 @@
-# contents
-Contents for I-TECH site
+# resources
+Resources for I-TECH site
