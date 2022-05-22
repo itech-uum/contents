@@ -1,3 +1,5 @@
+![I-TECH Group Photo](https://itech-uum.github.io/resources/assets/sample.svg)
+
 ## History
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut felis vitae urna blandit volutpat a nec libero. Maecenas ornare tortor at lorem
 fringilla eleifend. Ut vitae porttitor eros. Proin interdum vulputate diam ut varius. Aliquam ultrices magna vitae augue placerat, sed pharetra
