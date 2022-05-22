@@ -1,4 +1,4 @@
-![Event Poster](https://itech-uum.github.io/resources/assets/sky.jpg)
+![Event Poster](https://itech-uum.github.io/resources/assets/plus.svg)
 
 ### Details
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut felis vitae urna blandit volutpat a nec libero.
