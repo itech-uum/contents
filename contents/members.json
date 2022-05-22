@@ -1,17 +1,17 @@
 {
     "mt": [
-        {"name": "Muhd Irfan Zulkifli", "role": "President", "img": "https://itech-uum.github.io/resources/assets/plus.svg"},
-        {"name": "Wei Chai", "role": "Vice President (Internal)", "img": "https://itech-uum.github.io/resources/assets/plus.svg"},
-        {"name": "Nur Anisah Bin Rosdi", "role": "Secretary", "img": "https://itech-uum.github.io/resources/assets/plus.svg"},
-        {"name": "Name B", "role": "Vice Secretary", "img": "https://itech-uum.github.io/resources/assets/plus.svg"},
-        {"name": "Name E", "role": "Role E", "img": "https://itech-uum.github.io/resources/assets/plus.svg"}
+        {"name": "Muhd Irfan Zulkifli", "role": "President", "img": "https://itech-uum.github.io/resources/assets/sample.svg"},
+        {"name": "Wei Chai", "role": "Vice President (Internal)", "img": "https://itech-uum.github.io/resources/assets/sample.svg"},
+        {"name": "Nur Anisah Bin Rosdi", "role": "Secretary", "img": "https://itech-uum.github.io/resources/assets/sample.svg"},
+        {"name": "Name B", "role": "Vice Secretary", "img": "https://itech-uum.github.io/resources/assets/sample.svg"},
+        {"name": "Name E", "role": "Role E", "img": "https://itech-uum.github.io/resources/assets/sample.svg"}
     ],
     "ajk": [
-        {"name": "Mohd Adam bin Amir", "role": "Multimedia & Publicity", "img": "https://itech-uum.github.io/resources/assets/plus.svg"},
-        {"name": "Mohamad Ammar bin Azizan", "role": "Technical", "img": "https://itech-uum.github.io/resources/assets/plus.svg"},
-        {"name": "Name E", "role": "Role E", "img": "https://itech-uum.github.io/resources/assets/plus.svg"},
-        {"name": "Name F", "role": "Role F", "img": "https://itech-uum.github.io/resources/assets/plus.svg"},
-        {"name": "Name G", "role": "Role G", "img": "https://itech-uum.github.io/resources/assets/plus.svg"},
-        {"name": "Name H", "role": "Role H", "img": "https://itech-uum.github.io/resources/assets/plus.svg"}
+        {"name": "Mohd Adam bin Amir", "role": "Multimedia & Publicity", "img": "https://itech-uum.github.io/resources/assets/sample.svg"},
+        {"name": "Mohamad Ammar bin Azizan", "role": "Technical", "img": "https://itech-uum.github.io/resources/assets/sample.svg"},
+        {"name": "Name E", "role": "Role E", "img": "https://itech-uum.github.io/resources/assets/sample.svg"},
+        {"name": "Name F", "role": "Role F", "img": "https://itech-uum.github.io/resources/assets/sample.svg"},
+        {"name": "Name G", "role": "Role G", "img": "https://itech-uum.github.io/resources/assets/sample.svg"},
+        {"name": "Name H", "role": "Role H", "img": "https://itech-uum.github.io/resources/assets/sample.svg"}
     ]
 }
