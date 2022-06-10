@@ -1,20 +1,9 @@
 ![I-TECH Group Photo](https://itech-uum.github.io/resources/assets/sample.svg)
 
 ## History
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut felis vitae urna blandit volutpat a nec libero. Maecenas ornare tortor at lorem
-fringilla eleifend. Ut vitae porttitor eros. Proin interdum vulputate diam ut varius. Aliquam ultrices magna vitae augue placerat, sed pharetra
-neque imperdiet. Mauris eget tellus sit amet risus consequat pellentesque. Donec volutpat justo vitae justo porta vehicula. Cras metus diam,
-rutrum et imperdiet porta, vulputate nec metus. Pellentesque quis imperdiet mi, sed elementum ex. Pellentesque habitant morbi tristique senectus
-et netus et malesuada fames ac turpis egestas. Proin mauris felis, lacinia at orci eu, pretium pellentesque nunc. Fusce sagittis ipsum sed congue
-scelerisque. Fusce in placerat dolor. In semper condimentum vestibulum. In ac nisi gravida, euismod arcu ut, eleifend ante. Mauris orci velit,
-hendrerit ac risus id, elementum elementum orci. Vivamus gravida ante in nisi elementum eleifend. Pellentesque sed odio at justo porta commodo in
-in nunc. Nulla ullamcorper diam lectus, vitae ullamcorper sem sodales et. Nulla nec tortor tempus, euismod mauris sit amet, maximus mauris. Nunc
-dictum sapien at est rhoncus, eget imperdiet ligula ornare. Donec at dapibus sapien. Ut ullamcorper risus augue, at aliquam enim malesuada vel.
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur hendrerit, elit et semper ultricies, mi
-diam cursus metus, non euismod purus odio lacinia elit. Duis eu accumsan purus. Integer tempus, nulla nec tempor blandit, nisi ipsum tincidunt
-magna, a fringilla erat odio congue tortor. Aliquam ac magna vel massa congue vehicula eu id quam. Quisque ornare, elit eget dictum faucibus,
-neque libero venenatis nisl, eu porta augue quam vel erat. Cras blandit dui tempor, euismod urna id, aliquam eros. Aenean ac dui sit amet felis
-tristique vehicula. Proin vel malesuada elit. Etiam consectetur lacus sed massa egestas mattis. Donec consequat elit ex.
+Information Technology (ITECH) adalah sebuah persatuan yang berasaskan akademik. Persatuan ini ditubuhkan khas dibawahnaungan School of Computing (SOC).
+Tujuan persatuan ini ditubuhkan adalah untuk membantu pelajar-pelajar Information Technology (IT) dalam mengembangkan idea mereka dan menimba ilmu yang luas dalam bidang ini.Persatuan ini diterajui oleh ahli jawatankuasa tinggi dan juga beberapa ahli jawatankuasa kecil yang dikenali sebagai EXCO. 
+
 
 ## Mission
 Fusce dapibus venenatis ipsum, ut fringilla velit condimentum sit amet. Donec sodales justo a erat ornare congue. Maecenas ac ex a nisl faucibus
